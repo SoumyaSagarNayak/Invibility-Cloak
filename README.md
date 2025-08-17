@@ -26,8 +26,8 @@ The project depends on the following Python packages:
 
 You can install these dependencies easily using a `requirements.txt` file. Create a file named `requirements.txt` in your project folder with the following content:
 
-opencv-python>=4.12.0
-numpy>=1.25.0
+- opencv-python>=4.12.0
+- numpy>=1.25.0
 
 Then, install the dependencies with:
 
